@@ -1,6 +1,6 @@
 # Rodan and Fields-clone
 
-## A cousmatic cosmetic products webapplication program.
+## A cosmetic products webapplication program.
 
 A one week project for cloning the ""https://www.rodanandfields.com/en-us/** webapplication.
 
